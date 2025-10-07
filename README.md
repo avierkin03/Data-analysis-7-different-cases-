@@ -14,12 +14,12 @@ This project analyzes student performance data from the "StudentsPerformance.csv
 Key operations include data loading, creating average score columns, filtering, grouping, and plotting. Conclusions are drawn based on the results, rejecting or confirming the hypotheses.
 
 ### Screenshots
-- ![Hypothesis 1: Average Results by Parental Education (With Courses)](screenshots\TestsResults\screenshot1-1.png)
-- ![Hypothesis 1: Average Results by Parental Education (Without Courses)](screenshots\TestsResults\screenshot1-2.png)
-- ![Hypothesis 2: Average Results by Lunch Type (Pie Chart)](screenshots\TestsResults\screenshot1-3.png)
-- ![Hypothesis 2: Average Results by Lunch Type (Bar Chart)](screenshots\TestsResults\screenshot1-4.png)
-- ![Hypothesis 2: Box Plot for Free/Reduced Lunch](screenshots\TestsResults\screenshot1-5.png)
-- ![Hypothesis 2: Box Plot for Standard Lunch](screenshots\TestsResults\screenshot1-6.png)
+- ![Hypothesis 1: Average Results by Parental Education (With Courses)](screenshots/TestsResults/screenshot1-1.png)
+- ![Hypothesis 1: Average Results by Parental Education (Without Courses)](screenshots/TestsResults/screenshot1-2.png)
+- ![Hypothesis 2: Average Results by Lunch Type (Pie Chart)](screenshots/TestsResults/screenshot1-3.png)
+- ![Hypothesis 2: Average Results by Lunch Type (Bar Chart)](screenshots/TestsResults/screenshot1-4.png)
+- ![Hypothesis 2: Box Plot for Free/Reduced Lunch](screenshots/TestsResults/screenshot1-5.png)
+- ![Hypothesis 2: Box Plot for Standard Lunch](screenshots/TestsResults/screenshot1-6.png)
 
 
 ## 2. Countries of the World Analysis (Folder: 2_countries)
@@ -34,14 +34,14 @@ This project analyzes global country data from the "countries of the world.csv" 
 Data cleaning involves converting comma-separated decimals to floats. Conclusions highlight economic disparities, correlations with wealth, and outliers like Monaco.
 
 ### Screenshots
-- ![Population Distribution Histogram](screenshots\Countries\screenshot2-1.png)
-- ![Average GDP by Region (Bar Chart)](screenshots\Countries\screenshot2-2.png)
+- ![Population Distribution Histogram](screenshots/Countries/screenshot2-1.png)
+- ![Average GDP by Region (Bar Chart)](screenshots/Countries/screenshot2-2.png)
 - ![GDP vs. Phones per 1000 (Scatter Plot)](screenshots\Countries\screenshot2-3.png)
-- ![GDP vs. Literacy (Scatter Plot)](screenshots\Countries\screenshot2-4.png)
-- ![GDP vs. Birthrate (Scatter Plot)](screenshots\Countries\screenshot2-5.png)
-- ![GDP vs. Deathrate (Scatter Plot)](screenshots\Countries\screenshot2-6.png)
-- ![Maximum GDP per Region (Bar Chart)](screenshots\Countries\screenshot2-7.png)
-- ![Countries with Highest GDP per Region (Bar Chart with Labels)](screenshots\Countries\screenshot2-8.png)
+- ![GDP vs. Literacy (Scatter Plot)](screenshots/Countries/screenshot2-4.png)
+- ![GDP vs. Birthrate (Scatter Plot)](screenshots/Countries/screenshot2-5.png)
+- ![GDP vs. Deathrate (Scatter Plot)](screenshots/Countries/screenshot2-6.png)
+- ![Maximum GDP per Region (Bar Chart)](screenshots/Countries/screenshot2-7.png)
+- ![Countries with Highest GDP per Region (Bar Chart with Labels)](screenshots/Countries/screenshot2-8.png)
 
 
 ## 3. McDonald's Menu Analysis (Folder: 3_Menu)
@@ -60,20 +60,20 @@ This project analyzes nutritional data from McDonald's menu in the "McDonalds_Me
 Data processing includes extracting grams from serving sizes and grouping by categories.
 
 ### Screenshots
-- ![Vitamin A % by Category (Pie Chart)](screenshots\Menu\screenshot3-1.png)
-- ![Vitamin A % by Category (Bar Chart)](screenshots\Menu\screenshot3-2.png)
-- ![Vitamin C % by Category (Pie Chart)](screenshots\Menu\screenshot3-3.png)
-- ![Vitamin C % by Category (Bar Chart)](screenshots\Menu\screenshot3-4.png)
-- ![Calcium % by Category (Pie Chart)](screenshots\Menu\screenshot3-5.png)
-- ![Calcium % by Category (Bar Chart)](screenshots\Menu\screenshot3-6.png)
-- ![Iron % by Category (Pie Chart)](screenshots\Menu\screenshot3-7.png)
-- ![Iron % by Category (Bar Chart)](screenshots\Menu\screenshot3-8.png)
-- ![Sugars by Category (Bar Chart)](screenshots\Menu\screenshot3-9.png)
-- ![Calories by Category (Bar Chart)](screenshots\Menu\screenshot3-10.png)
-- ![Product Categories Count (Bar Chart)](screenshots\Menu\screenshot3-11.png)
-- ![Protein by Category (Bar Chart)](screenshots\Menu\screenshot3-12.png)
-- ![Calories vs. Calories from Fat (Scatter Plot)](screenshots\Menu\screenshot3-13.png)
-- ![Top 5 Heaviest Items (Bar Chart)](screenshots\Menu\screenshot3-14.png)
+- ![Vitamin A % by Category (Pie Chart)](screenshots/Menu/screenshot3-1.png)
+- ![Vitamin A % by Category (Bar Chart)](screenshots/Menu/screenshot3-2.png)
+- ![Vitamin C % by Category (Pie Chart)](screenshots/Menu/screenshot3-3.png)
+- ![Vitamin C % by Category (Bar Chart)](screenshots/Menu/screenshot3-4.png)
+- ![Calcium % by Category (Pie Chart)](screenshots/Menu/screenshot3-5.png)
+- ![Calcium % by Category (Bar Chart)](screenshots/Menu/screenshot3-6.png)
+- ![Iron % by Category (Pie Chart)](screenshots/Menu/screenshot3-7.png)
+- ![Iron % by Category (Bar Chart)](screenshots/Menu/screenshot3-8.png)
+- ![Sugars by Category (Bar Chart)](screenshots/Menu/screenshot3-9.png)
+- ![Calories by Category (Bar Chart)](screenshots/Menu/screenshot3-10.png)
+- ![Product Categories Count (Bar Chart)](screenshots/Menu/screenshot3-11.png)
+- ![Protein by Category (Bar Chart)](screenshots/Menu/screenshot3-12.png)
+- ![Calories vs. Calories from Fat (Scatter Plot)](screenshots/Menu/creenshot3-13.png)
+- ![Top 5 Heaviest Items (Bar Chart)](screenshots/Menu/screenshot3-14.png)
 
 
 ## 4. Data Analyst Jobs Analysis (Folder: 4_Data Analyst Jobs)
@@ -89,12 +89,12 @@ This project analyzes job listings for Data Analysts from the "DataAnalyst.csv" 
 Data cleaning involves regex extraction of salary ranges and conversion to numeric values.
 
 ### Screenshots
-- ![Salary Distribution Histogram](screenshots\DataAnalystJobs\screenshot4-1.png)
-- ![Top 10 Job Titles (Bar Chart)](screenshots\DataAnalystJobs\screenshot4-2.png)
-- ![Company Ratings Box Plot](screenshots\DataAnalystJobs\screenshot4-3.png)
-- ![Top 10 Industries (Pie Chart)](screenshots\DataAnalystJobs\screenshot4-4.png)
-- ![Ratings vs. Min Salary (Scatter Plot)](screenshots\DataAnalystJobs\screenshot4-5.png)
-- ![Ratings vs. Max Salary (Scatter Plot)](screenshots\DataAnalystJobs\screenshot4-6.png)
+- ![Salary Distribution Histogram](screenshots/DataAnalystJobs/screenshot4-1.png)
+- ![Top 10 Job Titles (Bar Chart)](screenshots/DataAnalystJobs/screenshot4-2.png)
+- ![Company Ratings Box Plot](screenshots/DataAnalystJobs/screenshot4-3.png)
+- ![Top 10 Industries (Pie Chart)](screenshots/DataAnalystJobs/screenshot4-4.png)
+- ![Ratings vs. Min Salary (Scatter Plot)](screenshots/DataAnalystJobs/screenshot4-5.png)
+- ![Ratings vs. Max Salary (Scatter Plot)](screenshots/DataAnalystJobs/screenshot4-6.png)
 
 
 ## 5. Space Analysis (Folder: 5_Space)
@@ -112,14 +112,14 @@ This project analyzes space mission data from the "Space_Corrected.csv" dataset.
 Data processing includes date parsing for years and country extraction from locations.
 
 ### Screenshots
-- ![Top 10 Companies by Launches (Bar Chart)](screenshots\Space\screenshot5-1.png)
-- ![Rocket Statuses (Pie Chart)](screenshots\Space\screenshot5-2.png)
-- ![Mission Statuses (Bar Chart)](screenshots\Space\screenshot5-3.png)
-- ![Missions per Year (Bar Chart)](screenshots\Space\screenshot5-4.png)
-- ![Missions per Year (Line Chart)](screenshots\Space\screenshot5-5.png)
-- ![Launches per Year by Selected Companies (Subplots)](screenshots\Space\screenshot5-6.png)
-- ![Launches by Top 10 Countries (Bar Chart)](screenshots\Space\screenshot5-7.png)
-- ![Mission Statuses by Country (Subplots)](screenshots\Space\screenshot5-8.png)
+- ![Top 10 Companies by Launches (Bar Chart)](screenshots/Space/screenshot5-1.png)
+- ![Rocket Statuses (Pie Chart)](screenshots/Space/screenshot5-2.png)
+- ![Mission Statuses (Bar Chart)](screenshots/Space/screenshot5-3.png)
+- ![Missions per Year (Bar Chart)](screenshots/Space/screenshot5-4.png)
+- ![Missions per Year (Line Chart)](screenshots/Space/screenshot5-5.png)
+- ![Launches per Year by Selected Companies (Subplots)](screenshots/Space/screenshot5-6.png)
+- ![Launches by Top 10 Countries (Bar Chart)](screenshots/Space/screenshot5-7.png)
+- ![Mission Statuses by Country (Subplots)](screenshots/Space/screenshot5-8.png)
 
 
 ## 6. IMDB Movies Analysis (Folder: 6_IMDB)
@@ -163,10 +163,10 @@ This project analyzes venture capital investment data from the "investments_VC.c
 Data cleaning involves stripping strings and handling NaNs.
 
 ### Screenshots
-- ![Top 5 Cities by Startups (Bar Chart)](screenshots\Investments\screenshot7-1.png)
-- ![Top 5 Cities by Startups (Pie Chart)](screenshots\Investments\screenshot7-2.png)
-- ![Startups with/without Grants (Bar Chart)](screenshots\Investments\screenshot7-3.png)
-- ![Top 5 Years by Startups (Bar Chart)](screenshots\Investments\screenshot7-4.png)
-- ![Top 5 Years by Startups (Pie Chart)](screenshots\Investments\screenshot7-5.png)
-- ![Top 5 Categories by Startups (Bar Chart)](screenshots\Investments\screenshot7-6.png)
-- ![Top 5 Categories by Startups (Pie Chart)](screenshots\Investments\screenshot7-7.png)
+- ![Top 5 Cities by Startups (Bar Chart)](screenshots/Investments/screenshot7-1.png)
+- ![Top 5 Cities by Startups (Pie Chart)](screenshots/Investments/screenshot7-2.png)
+- ![Startups with/without Grants (Bar Chart)](screenshots/Investments/screenshot7-3.png)
+- ![Top 5 Years by Startups (Bar Chart)](screenshots/Investments/screenshot7-4.png)
+- ![Top 5 Years by Startups (Pie Chart)](screenshots/Investments/screenshot7-5.png)
+- ![Top 5 Categories by Startups (Bar Chart)](screenshots/Investments/screenshot7-6.png)
+- ![Top 5 Categories by Startups (Pie Chart)](screenshots/Investments/screenshot7-7.png)
